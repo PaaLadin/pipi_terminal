@@ -1,0 +1,14 @@
+{
+  "alarm_time": "04:45",
+  "alarm_enabled": true,
+  "alarm_station_idx": 1,
+  "alarm_sound_type": "radio",
+  "news_feed_url": "https://reddit.com",
+  "matrix_speed_factor": 1.0,
+  "alarm_audio_enabled": true,
+  "light_signal_enabled": true,
+  "selected_light_preset": 2,
+  "use_custom_alarm_sound": false,
+  "default_theme_idx": 0,
+  "selected_station_idx": 6
+}
